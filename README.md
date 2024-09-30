@@ -4,14 +4,14 @@
 
 ### Integrantes do Projeto
 
-| Nome | Email |
-| --- | --- |
-| Georges Ballister de Oliveira | georgesballister.profissional@gmail.com |
-| Daniel de Melo Arantes Cabral | 12dancabral@gmail.com |
-| Douglas Numeriano Marinho Falcão | douglasnumeriano11@hotmail.com |
-| Davi Albnes Vasconcellos Pires | davipires03@gmail.com |
-| Bruno Vinícius Araújo de Mesquita | brunovinicius2002@hotmail.com |
-| Gabriel Sobral Santos Silva | gabrielprofessional12@gmail.com |
+| Nome | Email | Cargo |
+| --- | --- | --- |
+| Georges Ballister de Oliveira | georgesballister.profissional@gmail.com | Engenharia, Coordenação, Pesquisa e Revisão |
+| Daniel de Melo Arantes Cabral | 12dancabral@gmail.com | Pesquisa |
+| Douglas Numeriano Marinho Falcão | douglasnumeriano11@hotmail.com | Pesquisa |
+| Davi Albnes Vasconcellos Pires | davipires03@gmail.com | Documentação |
+| Bruno Vinícius Araújo de Mesquita | brunovinicius2002@hotmail.com | Pesquisa e Tratamento dos Dados |
+| Gabriel Sobral Santos Silva | gabrielprofessional12@gmail.com | Pesquisa e Revisão |
 
 ***Abstract. The aim of this study is to demonstrate the data analysis process conducted on the "Multiple Disease Prediction" dataset using Python. The primary focus was to train machine learning models to identify, based on a blood test including information on 25 blood proteins, two major blood-related conditions: diabetes and anemia, as well as to distinguish other health conditions.***
 
